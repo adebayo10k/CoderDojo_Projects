@@ -1,8 +1,8 @@
 # do some research to create a comprehensive list
-*.hex
+#*.hex
 #*.png
-*.jpg
-*.jpeg
-*.xcf
-*.pdf
-*.mp4
+#*.jpg
+#*.jpeg
+#*.xcf
+#*.pdf
+#*.mp4
