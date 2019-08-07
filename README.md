@@ -21,9 +21,9 @@ So, here are some of the projects we've worked on so far...
 Morse Code
 ===
 
-This requires ninjas to program micro:bit microcontroller to be a Morse Code transceiver, both transmitting and receiving signals. At the same time, mentors and volunteers can program the other Morse-speaking micro:bit 'characters' with which ninjas can interact. These include:
-
 ![CoderDojo Morse Code workbook cover sheet](morse_code/morse_alphabet_and_numbers_w250.png)
+
+This requires ninjas to program micro:bit microcontroller to be a Morse Code transceiver, both transmitting and receiving signals. At the same time, mentors and volunteers can program the other Morse-speaking micro:bit 'characters' with which ninjas can interact. These include:
 
 - Messenger Challenge - Outputs Morse messages, which ninjas must work in teams to decode.
 
