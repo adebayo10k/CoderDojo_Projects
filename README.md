@@ -1,7 +1,7 @@
 CoderDojo Projects Repository
 ===
 
-Welcome.
+Welcome
 ===
 
 The purpose of this GitHub repository is to be a source of project resources and ideas for _anyone_ involved with CoderDojo or Code Club type events.
@@ -39,7 +39,7 @@ This requires ninjas to program micro:bit microcontroller to be a Morse Code tra
 Emotion Communicator
 ===
 
-![CoderDojo Emotion Communicator makecode function](emotion_communicator/makecode_function_images/childs_device_makecode_function_images/function_chooseEmotion_w170.png)
+![CoderDojo Emotion Communicator makecode function](emotion_communicator/makecode_function_images/childs_device_makecode_function_images/function_chooseEmotion_40.jpg)
 
 This project was created to support Autism Awareness Week. 
 Ninjas program one of two micro:bit devices:
