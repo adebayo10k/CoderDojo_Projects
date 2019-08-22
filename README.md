@@ -53,5 +53,17 @@ Recycling Tally Counter
 This Project presents a recycling challenge scenario. 
 Ninjas are told that Leeds City Council have asked our dojo to provide a device that can help count how many metal cans are recycled each day in their offices. The challenges progress to include tallies for plastic bottles and paper cups, then radio transmission of data to central micro:bit 'server'.
 
+Sort Planets
+===
+
+![CoderDojo Sort Planets makecode function](sort_planets/makecode_images/on_start_challenge_80.jpg)
+
+This project took a space theme, in line with other local celebrations of the Moon Landing 50th Anniversary.
+Young coders were challenged to arrange solar system planets into an array data structure. From that point, many ideas for quizzes and games could be coded.
 
 
+Lightning Bugs
+===
+Ever thought you'd be able to demonstrate a micro:bit Denial of Service (DoS) scenario in your coding workshops?
+Young developers are asked to program their micro:bits to be part of an artistic lighting display being made for a local public event. Unfortunately there is a flaw in the code that would allow a bad actor to sabotage the event.
+Young developers are asked to demostrate exploitation of the flaw and then to fix the original code, hence helping to protect their local public event.
