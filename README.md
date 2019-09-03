@@ -62,8 +62,8 @@ This project took a space theme, in line with other local celebrations of the Mo
 Young coders were challenged to arrange solar system planets into an array data structure. From that point, many ideas for quizzes and games could be coded.
 
 
-Lightning Bugs
+Lightning Bug
 ===
 Ever thought you'd be able to demonstrate a micro:bit Denial of Service (DoS) scenario in your coding workshops?
-Young developers are asked to program their micro:bits to be part of an artistic lighting display being made for a local public event. Unfortunately there is a flaw in the code that would allow a bad actor to sabotage the event.
-Young developers are asked to demostrate exploitation of the flaw and then to fix the original code, hence helping to protect their local public event.
+Young developers are asked to program their micro:bits to be part of an artistic lighting display being made for a local public event. Unfortunately there is a flaw in the code that would allow 'Mischievous Mallory' to sabotage the event.
+Young developers are asked to demonstrate exploitation of the flaw and then to fix the original code, hence helping to protect their local public event.
