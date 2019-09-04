@@ -64,6 +64,9 @@ Young coders were challenged to arrange solar system planets into an array data 
 
 Lightning Bug
 ===
+
+![CoderDojo Lightning Bug makecode function](lightning_bug/makecode_images/radio_lightning_80.jpg)
+
 Ever thought you'd be able to demonstrate a micro:bit Denial of Service (DoS) scenario in your coding workshops?
 Young developers are asked to program their micro:bits to be part of an artistic lighting display being made for a local public event. Unfortunately there is a flaw in the code that would allow 'Mischievous Malory' to sabotage the event for her own amusement.
 Young developers are asked to demonstrate exploitation of the flaw and then to fix the original code, so helping to protect their local public event.
