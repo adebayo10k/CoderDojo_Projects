@@ -21,19 +21,19 @@ So, here are some of the projects we've worked on so far...
 Morse Code
 ===
 
-![CoderDojo Morse Code workbook cover sheet](morse_code/workshop_images/morse_alphabet_and_numbers_w250.png)
+![CoderDojo Morse Code workbook cover sheet](morse_code/challenge_images/morse_alphabet_and_numbers_w250.png)
 
 This requires young code ninjas to program micro:bit microcontroller to be a Morse Code transceiver, both transmitting and receiving signals. At the same time, mentors and volunteers can program the other Morse-speaking micro:bit 'characters' with which ninjas can interact. These include:
 
 - Messenger Challenge - Outputs Morse messages, which ninjas must work in teams to decode.
 
-![CoderDojo Morse Code workbook cover sheet](morse_code/workshop_images/character_messenger_challenge_w300.png)
+![CoderDojo Morse Code workbook cover sheet](morse_code/challenge_images/character_messenger_challenge_w300.png)
 
 - Echo Challenge - Displays random alphanumeric characters, to which ninjas must successfully respond in Morse.
 
-![CoderDojo Morse Code workbook cover sheet](morse_code/workshop_images/character_echo_challenge_w300.png)
+![CoderDojo Morse Code workbook cover sheet](morse_code/challenge_images/character_echo_challenge_w300.png)
 
-- The Channel Administrator - Able to control to radio communication channel of Echo Challenge.
+- The Channel Administrator - Able to control the radio communication channel of Echo Challenge.
 - The Translator - Able to decode user input Morse signals into alphanumeric characters.
 
 Emotion Communicator
@@ -45,6 +45,7 @@ This project was created to support Autism Awareness Week.
 Young software developers program one of two micro:bit devices:
 - The Emotion Transmitter communicates an emotion being experienced
 - The Emotion Receiver acknowledges that communication.
+
 Design and craft activities to make devices wearable makes sense on many of these projects.
 
 Recycling Tally Counter
@@ -59,7 +60,7 @@ Sort Planets
 ![CoderDojo Sort Planets makecode function](sort_planets/makecode_images/on_start_challenge_80.jpg)
 
 This project took a space theme, in line with other local celebrations of the Moon Landing 50th Anniversary.
-Young coders were challenged to arrange solar system planets into an array data structure. From that point, many ideas for quizzes and games could be coded.
+Young coders were challenged to arrange solar system planets into an array data structure. From that point, many ideas for quizzes and games could be imagined and coded.
 
 
 Lightning Bug
@@ -68,5 +69,7 @@ Lightning Bug
 ![CoderDojo Lightning Bug makecode function](lightning_bug/makecode_images/radio_lightning_140.jpg)
 
 Ever thought you'd be able to demonstrate a micro:bit Denial of Service (DoS) scenario in your coding workshops?
+
 Young developers are asked to program their micro:bits to be part of an artistic lighting display being made for a local public event. Unfortunately there is a flaw in the code that would allow 'Mischievous Malory' to sabotage the event for her own amusement.
-Young developers are asked to ethically disclose and demonstrate exploitation of the flaw and then to fix the original code, so helping to protect their local public event.
+
+They must then ethically disclose, demonstrate exploitation of the flaw and then to fix the original code, so helping to protect their local public event.
