@@ -72,4 +72,4 @@ Ever thought you'd be able to demonstrate a micro:bit Denial of Service (DoS) sc
 
 Young developers are asked to program their micro:bits to be part of an artistic lighting display being made for a local public event. Unfortunately there is a flaw in the code that would allow 'Mischievous Malory' to sabotage the event for her own amusement.
 
-They must then ethically disclose, demonstrate exploitation of the flaw and then to fix the original code, so helping to protect their local public event.
+Young developers must first ethically disclose and demonstrate exploitation of the flaw, then fix the original code, so helping to protect their local public event.
