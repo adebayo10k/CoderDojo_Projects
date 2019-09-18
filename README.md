@@ -16,7 +16,7 @@ As CoderDojo mentors we try to encourage that problem solving mindset, so coming
 
 Projects generally start with a _problem scenario_, then go though the phases leading to a solution. The solutions discovered here are best used as references.
 
-So, here are some of the projects we've worked on so far...
+So, here are some of the projects I've developed so far...
 
 Morse Code
 ===
@@ -51,8 +51,10 @@ Design and craft activities to make devices wearable makes sense on many of thes
 Recycling Tally Counter
 ===
 
+![CoderDojo Recycling Tally Counter micro:bit simulator](recycling_tally_counter/images/simulator_recycling_tally_counter.jpg)
+
 This Project presents a recycling challenge scenario. 
-CoderDojo Ninjas are told that Leeds City Council have asked our dojo to provide a device that can help count how many metal cans are recycled each day in their offices. The challenges progress to include tallies for plastic bottles and paper cups, then radio transmission of data to central micro:bit 'server'.
+CoderDojo developers are told that Leeds City Council have asked our dojo to provide a device that can help count how many metal cans are recycled each day in their libraries. The challenges progress to include tallies for plastic bottles and paper cups, then radio transmission of data to the Seacroft recycling centre micro:bit - a continuous display of uploaded data, such as coderName, libraryName etc..
 
 Sort Planets
 ===
