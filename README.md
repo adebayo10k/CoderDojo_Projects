@@ -75,3 +75,15 @@ Ever thought you'd be able to demonstrate a micro:bit Denial of Service (DoS) sc
 Young developers are asked to program their micro:bits to be part of an artistic lighting display being made for a local public event. Unfortunately there is a flaw in the code that would allow 'Mischievous Malory' to sabotage the event for her own amusement.
 
 Young developers must first ethically disclose and demonstrate exploitation of the flaw, then fix the original code, so helping to protect their local public event.
+
+
+Air Pollution Alert Robot
+===
+
+People with respiratory illnesses like asthma,.. suffer most when air quality is adversely affected by high pollution levels.
+
+This project builds device that can put asthmatic kid's back in control by alerting them to be prepared. It continuously monitors the air quality index (aqi) in their city, then indicates this information to them directly, in real-time. 
+
+The device is 
+
+This project involves at least some python and bash shell programming, then some reading of html, css and javascript.
