@@ -80,10 +80,12 @@ Young developers must first ethically disclose and demonstrate exploitation of t
 Air Pollution Alert Robot
 ===
 
-People with respiratory illnesses like asthma,.. suffer most when air quality is adversely affected by high pollution levels.
+![CoderDojo Air Pollution Alert Monitor makecode function](air_pollution_alert_robot/makecode_images/display_blue_function.jpg)
 
-This project builds device that can put asthmatic kid's back in control by alerting them to be prepared. It continuously monitors the air quality index (aqi) in their city, then indicates this information to them directly, in real-time. 
+People with respiratory illnesses like asthma suffer most when air quality is adversely affected by high pollution levels.
 
-The device is 
+This project builds device that can put asthmatic kid's back in control, by alerting them to be prepared. It continuously monitors the air quality index (aqi) in their city, then indicates this information to them directly, in real-time. 
 
-This project involves at least some python and bash shell programming, then some reading of html, css and javascript.
+The code and device is developed in gradual stages.
+
+This project involves at least some block code/python and bash shell programming, then some reading of html, css and javascript.
