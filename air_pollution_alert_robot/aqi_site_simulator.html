@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="author" content="damola">
+        <meta name="description" content="Fake air quality site being used for product development">
+        <title>aqi site simulator</title>
+        <style>
+            h1{
+                text-align: left;
+                color: darkred;
+            }
+            section#aqi_colour_panel{
+                width: auto;
+                height: 300px;                
+                position: relative;
+                border: 3px solid green;
+                border-radius: 1em;
+                background: maroon;
+                margin-bottom: 50px;
+            }
+            section#aqi_colour_panel div{
+                width: 20%;
+                height: 80%;
+                border: 1px solid black;
+                border-radius: 1em;
+                background: white;
+            }
+            fieldset { 
+            background:none;
+            border: green 3px solid;
+            border-radius: 1em;
+            margin-bottom: 10px;
+            }
+            article{
+                width: 16%;
+                height: 100%;
+                border-right: 1px solid black;
+                display: inline-block;
+
+            }
+            article header div{
+                width: 2em;
+                height: 2em;
+                border: 1px solid black;
+            }
+            fieldset p{
+                display: inline-block;
+                margin-right: 2em;
+            }
+
+        </style>
+        <script>
+        
+        </script>
+    </head>
+    <body>
+        <header>
+            <h1>My Really, Really Useful Air Quality 'Now' Website</h1>
+        </header>
+        <section id="aqi_colour_panel">
+            <div id="real_time_aqi">
+
+            </div>
+
+        </section>
+        <section id="aqi_controls">
+            <form action="" method="">
+                <fieldset>
+                    <legend>AQI controls</legend>
+                    <label for="aqi_up">Increase AQI:</label>
+                    <p><button type="button" id="aqi_up" name="aqi_up" value="">aqi UP</button></p>
+                    <label for="aqi_down">Decrease AQI:</label>
+                    <p><button type="button" id="aqi_down" name="aqi_down" value="">aqi DOWN</button></p>
+                    <label for="aqi_level" id="" >AQI:</label>
+                    <span class="slider_low">Low</span> 
+                    <input type="range" name="aqi_level" id="aqi_level" min="0" max="500" step="5" value="10" >
+                    <span class="slider_high">High</span>
+                
+                </fieldset>
+            </form>
+
+        </section>
+        <section id="aqi_reference_info">
+                <fieldset>
+                    <legend>AQI Colour Codes</legend>
+                    <article>
+                        <header>
+                            <div></div>
+                            <h1>GOOD</h1>
+                            <h2>(0-50)</h2>
+                        </header>
+                        <section>
+                            <p>Ok to go into city normally</p>
+                        </section>
+                    </article>
+                    <article>
+                        <header>
+                            <h1>MODERATE</h1>
+                            <h2>(50-100)</h2>
+                        </header>
+                        <section>
+                            <p>Ok to go into city. <br> Take extra inhaler</p>
+                        </section>
+                    </article>
+                    <article>
+                        <header>
+                            <h1>UNHEALTHY FOR SENSITIVE GROUPS</h1>
+                            <h2>(101-150)</h2>
+                        </header>
+                        <section>
+                            <p>Ok to <em>travel through</em> city only. <br> Take extra inhaler.</p>
+                        </section>
+                    </article>
+                    <article>
+                        <header>
+                            <h1>UNHEALTHY</h1>
+                            <h2>(151-200)</h2>
+                        </header>
+                        <section>
+                            <p>avoid the city</p>
+                        </section>
+                    </article>
+                    <article>
+                        <header>
+                            <h1>VERY UNHEALTHY</h1>
+                            <h2>(201-300)</h2>
+                        </header>
+                        <section>
+                            <p>avoid the city</p>
+                        </section>
+                    </article>
+                    <article>
+                        <header>
+                            <h1>HAZARDOUS</h1>
+                            <h2>(301-500)</h2>
+                        </header>
+                        <section>
+                            <p>Gas mask time!</p>
+                        </section>
+                    </article>
+                </fieldset>
+
+        </section>
+
+        
+    </body>
+</html>
