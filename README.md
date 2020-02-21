@@ -10,11 +10,11 @@ Feel free to download or fork any of the work contained here. Some of these proj
 Volunteer Mentoring
 ===
 
-As CoderDojo mentors we try to encourage that problem solving mindset, so coming up with and testing out project ideas runs alongside understanding the software and hardware tools.
+As CoderDojo mentors we help kids develop the problem solving mindset, so the process of going from a project idea to starting to write some code is just as important as understanding programming languages and writing code.
 
 **Getting creative** by solving problems. 
 
-Projects generally start with a _problem scenario_, then go though the phases leading to a solution. The solutions discovered here are best used as references.
+The solutions discovered here are best used as references.
 
 So, here are some of the projects I've developed so far...
 
@@ -84,8 +84,10 @@ Air Pollution Alert Robot
 
 People with respiratory illnesses like asthma suffer most when air quality is adversely affected by high pollution levels.
 
-This project builds device that can put asthmatic kid's back in control, by alerting them to be prepared. It continuously monitors the air quality index (aqi) in their city, then indicates this information to them directly, in real-time. 
+This project builds device that can give asthmatic kids some control, by alerting them to be prepared, perhaps with an extra inhaler. It continuously monitors the air quality index (aqi) in their city, then indicates this information to them directly, in real-time. 
 
-The code and device is developed in gradual stages.
+The device design created here uses a Rasperry Pi and two micro:bits. The code and device designs are developed progessively, in gradual stages.
 
-This project involves at least some block code/python and bash shell programming, then some reading of html, css and javascript.
+This project involves at least some Makecode or MicroPython, a little Bash shell programming, then some reading of HTML, CSS and JavaScript.
+
+Further development of this solution may get kids to understand how to make use of a free API.
