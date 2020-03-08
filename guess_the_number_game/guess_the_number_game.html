@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="damola" >
+    <title>Javascript Guess My Number Game</title> 
+    <!-- <link rel="stylesheet" href="" type="css/text"> -->
+    <!-- <script src="guessing_game.js" type="javascript/text"></script> -->
+    
+</head>
+<body onload = "do_game()">
+    <h1>Game</h1>
+
+    <script>
+        var target; // program generated pseudo-random number
+        var guess_input_text; // string returned from prompt
+        var guess_input; // integer
+        var finished = false;
+        var guesses = 0;
+
+        function do_game(){
+            var random_number = Math.random() * 100;
+            random_number = Math.floor(random_number);
+            target = random_number + 1;
+            console.log(target);
+
+            while (!finished){
+                guess_input_text = prompt("Guess the integer...1-100");
+                guess_input = parseInt(guess_input_text);
+                guesses += 1;
+                finished = check_guess();
+            }
+        }
+
+        function check_guess(){
+            if (isNaN(guess_input)){
+                alert("NaN");
+                return false;
+            }
+            else if ((guess_input < 1) || (guess_input > 100)){
+                alert("Out of range");
+                return false;
+            }
+            else if (guess_input > target){
+                alert("too high");
+                return false;
+            }
+            else if (guess_input < target){
+                alert("too low");
+                return false;
+            }
+            else{
+                alert("Perfect, got it! \n\nIt took you " + guesses + " guesses.");
+                return true;
+            }            
+        }
+    </script>
+
+</body>
+</html>
