@@ -91,3 +91,8 @@ The device design created here uses a Rasperry Pi and two micro:bits. The code a
 This project involves at least some Makecode or MicroPython, a little Bash shell programming, then some reading of HTML, CSS and JavaScript.
 
 Further development of this solution may get kids to understand how to make use of a free API.
+
+Guess the Number Game
+===
+
+JavaScript practice exercise. Program a game in which the user must try to guess a browser generated 'random' number.
